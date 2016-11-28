@@ -1,0 +1,24 @@
+.navbar-default {
+    background-color: #000;
+    border-color: #000;
+}
+
+.navbar {
+    border-radius: 0;
+    border: 0;
+}
+
+
+.content-container .content img{
+  max-width: 100%;
+}
+
+.content-container .row {
+    border-bottom: 1px solid #999;
+    padding: 20px 6px;
+}
+
+
+.ads-container .content img{
+    max-width: 100%;
+}
